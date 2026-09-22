@@ -1,0 +1,30 @@
+{
+  "domain": "Software Engineering (Python Focus)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary difference between a list and a tuple in Python?",
+      "ideal_answer": "Lists are mutable, meaning they can be modified after creation. Tuples are immutable, meaning their elements cannot be changed, making them faster and read-only."
+    },
+    {
+      "id": 2,
+      "question": "What is the purpose of an Index in a database structure?",
+      "ideal_answer": "An index is a performance-tuning data structure built over database tables to speed up data retrieval operations at the cost of additional storage and slower writes."
+    },
+    {
+      "id": 3,
+      "question": "Can you explain what a decorator does in Python?",
+      "ideal_answer": "A decorator is a design pattern that allows a programmer to add new functionality to an existing object or function without modifying its structural source code."
+    },
+    {
+      "id": 4,
+      "question": "What is the difference between synchronous and asynchronous execution?",
+      "ideal_answer": "Synchronous execution blocks subsequent tasks until the current one finishes. Asynchronous execution allows multiple tasks to run concurrently without blocking the main execution thread."
+    },
+    {
+      "id": 5,
+      "question": "What are HTTP 404 and 500 error status codes used for?",
+      "ideal_answer": "A 404 status code means the requested resource could not be found on the server. A 500 status code indicates a generic internal server error."
+    }
+  ]
+}

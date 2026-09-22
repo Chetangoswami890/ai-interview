@@ -1,0 +1,5 @@
+.env
+interview.db
+__pycache__/
+venv/
+*.pem
